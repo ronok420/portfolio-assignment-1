@@ -1,0 +1,66 @@
+h1 {
+    font-size: 51px;
+}
+
+h2 {
+    font-size: 46px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#paste_color {
+    color: #73A16C;
+}
+
+.text_color {
+    color: #73A16C;
+    box-shadow: 10px 10px 50px greenyellow;
+}
+
+body {
+    font-family: 'Cabin Condensed', sans-serif;
+}
+
+.section_1 {
+    display: flex;
+    background-color: #99c68e4f;
+    box-shadow: 10px 10px 100px greenyellow;
+}
+
+.width_1 {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.width_1 img {
+    width: 50%;
+    padding-left: 6%;
+    margin-top: 5%;
+
+}
+
+.border_claass {
+    border-left: solid 5px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    border-radius: 4px;
+    width: 50%;
+
+
+
+
+
+}
+
+.link_button {
+    text-decoration: none;
+    background: linear-gradient(rgb(23, 221, 178), rgba(255, 99, 71, 0.699));
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+
+
+}
