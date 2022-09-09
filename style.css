@@ -64,3 +64,59 @@ body {
 
 
 }
+
+#separate_1 {
+    text-align: center;
+    margin-top: 70px;
+
+}
+
+.mission_2022 {
+
+    border: solid 3px;
+    border-radius: 30px;
+    padding: 60px 5px;
+    width: 50%;
+    margin-right: 2%;
+    margin-left: 2%;
+
+
+}
+
+#section_2 {
+    display: flex;
+    margin-bottom: 300px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+
+
+
+}
+
+.sec_2_image {}
+
+.mission_2022 img {
+    width: 45%;
+
+}
+
+#sec_2_div_1 {
+    background-color: #4bc41746;
+    box-shadow: 10px 10px 90px greenyellow;
+}
+
+#sec_2_div_2 {
+    background-color: #e0ffffbd;
+    box-shadow: 10px 10px 90px greenyellow;
+}
+
+#sec_2_div_3 {
+    background-color: #7fffd44d;
+    box-shadow: 10px 10px 90px greenyellow;
+}
+
+#orange_clr {
+
+    color: #73A16C;
+}
