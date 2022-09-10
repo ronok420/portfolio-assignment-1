@@ -10,7 +10,7 @@ p {
     font-size: 20px;
 }
 
-#paste_color {
+.paste_color {
     color: #73A16C;
 }
 
@@ -23,7 +23,7 @@ body {
     font-family: 'Cabin Condensed', sans-serif;
 }
 
-.section_1 {
+#section_1 {
     display: flex;
     background-color: #99c68e4f;
     box-shadow: 10px 10px 100px greenyellow;
@@ -119,4 +119,44 @@ body {
 #orange_clr {
 
     color: #73A16C;
+}
+
+.sec_3_div_1 {
+    width: 100%;
+    padding-left: 5%;
+
+}
+
+.sec_3_div_1 img {
+    width: 80%;
+    margin-left: 20%;
+    box-shadow: 10px -10px 300px palegreen;
+}
+
+#section_3 {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+#positioning {
+    padding-left: 50px;
+    margin-right: 25%;
+}
+
+#section_4 {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.sec_4_div_1 {
+    width: 90%;
+    margin-left: 5%;
+
+}
+
+.sec_4_div_1 img {
+    width: 60%;
+    box-shadow: 10px -10px 300px palegreen;
+
+
 }
