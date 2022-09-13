@@ -94,7 +94,7 @@ body {
 
 }
 
-.sec_2_image {}
+
 
 .mission_2022 img {
     width: 45%;
@@ -103,17 +103,21 @@ body {
 
 #sec_2_div_1 {
     background-color: #4bc41746;
-    box-shadow: 10px 10px 90px greenyellow;
+
+    box-shadow: 10px 10px 90px palegreen;
+
 }
 
 #sec_2_div_2 {
     background-color: #e0ffffbd;
-    box-shadow: 10px 10px 90px greenyellow;
+
+    box-shadow: 10px 10px 90px palegreen;
+
 }
 
 #sec_2_div_3 {
     background-color: #7fffd44d;
-    box-shadow: 10px 10px 90px greenyellow;
+    box-shadow: 10px 10px 90px palegreen;
 }
 
 #orange_clr {
@@ -159,4 +163,39 @@ body {
     box-shadow: 10px -10px 300px palegreen;
 
 
+}
+
+#sec_4_h1 {
+    text-align: center;
+}
+
+.sec_5_div {
+    width: 60%;
+}
+
+.sec_5_div img {
+    width: 39%;
+    margin-left: 35%;
+}
+
+#section_5 {
+    margin-top: 100px;
+    display: flex;
+    width: 100%;
+}
+
+#sec_5_divtext {
+    width: 30%;
+    margin-right: 40%;
+}
+
+#footer_text {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+#ft_text_clr {
+    color: rgba(255, 99, 71, 0.76);
 }
